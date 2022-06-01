@@ -1,0 +1,6 @@
+C:\Users\usuario\Desktop\ExamenTestUnitaris\BibliotecaExamenTestUnitari\BibliotecaExamenTestUnitari\bin\Debug\BibliotecaExamenTestUnitari.dll
+C:\Users\usuario\Desktop\ExamenTestUnitaris\BibliotecaExamenTestUnitari\BibliotecaExamenTestUnitari\bin\Debug\BibliotecaExamenTestUnitari.pdb
+C:\Users\usuario\Desktop\ExamenTestUnitaris\BibliotecaExamenTestUnitari\BibliotecaExamenTestUnitari\obj\Debug\BibliotecaExamenTestUnitari.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\ExamenTestUnitaris\BibliotecaExamenTestUnitari\BibliotecaExamenTestUnitari\obj\Debug\BibliotecaExamenTestUnitari.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ExamenTestUnitaris\BibliotecaExamenTestUnitari\BibliotecaExamenTestUnitari\obj\Debug\BibliotecaExamenTestUnitari.dll
+C:\Users\usuario\Desktop\ExamenTestUnitaris\BibliotecaExamenTestUnitari\BibliotecaExamenTestUnitari\obj\Debug\BibliotecaExamenTestUnitari.pdb

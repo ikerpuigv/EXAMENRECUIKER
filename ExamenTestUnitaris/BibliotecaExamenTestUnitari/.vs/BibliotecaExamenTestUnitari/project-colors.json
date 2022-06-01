@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c698f1e9-5ac1-4271-9c30-8d86aeb6f2fd": {
+      "ProjectGuid": "c698f1e9-5ac1-4271-9c30-8d86aeb6f2fd",
+      "DisplayName": "BibliotecaExamenTestUnitari",
+      "ColorIndex": 0
+    },
+    "25197cbf-0b19-449a-ab2e-6bedcfd266c2": {
+      "ProjectGuid": "25197cbf-0b19-449a-ab2e-6bedcfd266c2",
+      "DisplayName": "UnitTestProject",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
